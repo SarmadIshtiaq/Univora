@@ -1,0 +1,185 @@
+﻿university_id,university_name,qs_rank_2027,official_domain,university_website,confidence,discovery_method,wikidata_id,wikidata_label,website_status,website_error,discovery_status
+UNI-MASSACHUSETTS-INSTITUTE-OF-TECHNOLOGY-MIT,Massachusetts Institute of Technology (MIT),1,mit.edu,https://mit.edu,1.0,existing_verified_output,Q49108,Massachusetts Institute of Technology,not_checked,,success
+UNI-STANFORD-UNIVERSITY,Stanford University,2,stanford.edu,https://stanford.edu,1.0,existing_verified_output,Q41506,Stanford University,not_checked,,success
+UNI-HARVARD-UNIVERSITY,Harvard University,5,harvard.edu,https://harvard.edu,1.0,existing_verified_output,Q13371,Harvard University,not_checked,,success
+UNI-CALIFORNIA-INSTITUTE-OF-TECHNOLOGY-CALTECH,California Institute of Technology (Caltech),7,caltech.edu,https://caltech.edu,1.0,existing_verified_output,Q161562,California Institute of Technology,not_checked,,success
+UNI-UNIVERSITY-OF-PENNSYLVANIA,University of Pennsylvania,15,upenn.edu,https://upenn.edu,1.0,existing_verified_output,Q49117,University of Pennsylvania,not_checked,,success
+UNI-CORNELL-UNIVERSITY,Cornell University,16,www.cornell.edu,https://www.cornell.edu,1.0,existing_verified_output,Q49115,Cornell University,not_checked,,success
+UNI-YALE-UNIVERSITY,Yale University,16,yale.edu,https://yale.edu,1.0,existing_verified_output,Q49112,Yale University,not_checked,,success
+UNI-JOHNS-HOPKINS-UNIVERSITY,Johns Hopkins University,20,jhu.edu,https://jhu.edu,1.0,existing_verified_output,Q193727,Johns Hopkins University,not_checked,,success
+UNI-UNIVERSITY-OF-CALIFORNIA-BERKELEY-UCB,"University of California, Berkeley (UCB)",20,www.berkeley.edu,https://www.berkeley.edu,1.0,existing_verified_output,Q168756,"University of California, Berkeley",not_checked,,success
+UNI-UNIVERSITY-OF-CHICAGO,University of Chicago,24,www.uchicago.edu,https://www.uchicago.edu,1.0,existing_verified_output,Q131252,University of Chicago,not_checked,,success
+UNI-PRINCETON-UNIVERSITY,Princeton University,27,www.princeton.edu,https://www.princeton.edu,1.0,existing_verified_output,Q21578,Princeton University,not_checked,,success
+UNI-COLUMBIA-UNIVERSITY,Columbia University,43,columbia.edu,https://columbia.edu,1.0,existing_verified_output,Q49088,Columbia University,not_checked,,success
+UNI-NORTHWESTERN-UNIVERSITY,Northwestern University,45,www.northwestern.edu,https://www.northwestern.edu,1.0,existing_verified_output,Q309350,Northwestern University,not_checked,,success
+UNI-UNIVERSITY-OF-CALIFORNIA-LOS-ANGELES-UCLA,"University of California, Los Angeles (UCLA)",49,www.ucla.edu,https://www.ucla.edu,1.0,existing_verified_output,Q174710,"University of California, Los Angeles",not_checked,,success
+UNI-UNIVERSITY-OF-MICHIGAN-ANN-ARBOR,University of Michigan-Ann Arbor,51,umich.edu,https://umich.edu,1.0,existing_verified_output,Q230492,University of Michigan,not_checked,,success
+UNI-CARNEGIE-MELLON-UNIVERSITY,Carnegie Mellon University,55,www.cmu.edu,https://www.cmu.edu,1.0,existing_verified_output,Q190080,Carnegie Mellon University,not_checked,,success
+UNI-NEW-YORK-UNIVERSITY-NYU,New York University (NYU),58,www.nyu.edu,https://www.nyu.edu,1.0,existing_verified_output,Q49210,New York University,not_checked,,success
+UNI-BROWN-UNIVERSITY,Brown University,66,www.brown.edu,https://www.brown.edu,1.0,existing_verified_output,Q49114,Brown University,not_checked,,success
+UNI-DUKE-UNIVERSITY,Duke University,70,www.duke.edu,https://www.duke.edu,1.0,existing_verified_output,Q168751,Duke University,not_checked,,success
+UNI-UNIVERSITY-OF-TEXAS-AT-AUSTIN,University of Texas at Austin,72,www.utexas.edu,https://www.utexas.edu,1.0,existing_verified_output,Q49213,University of Texas at Austin,not_checked,,success
+UNI-UNIVERSITY-OF-ILLINOIS-URBANA-CHAMPAIGN,University of Illinois Urbana-Champaign,74,illinois.edu,https://illinois.edu,1.0,existing_verified_output,,University of Illinois Urbana-Champaign,not_checked,,success
+UNI-UNIVERSITY-OF-CALIFORNIA-SAN-DIEGO-UCSD,"University of California, San Diego (UCSD)",81,ucsd.edu,https://ucsd.edu,1.0,existing_verified_output,,"University of California, San Diego",not_checked,,success
+UNI-PENNSYLVANIA-STATE-UNIVERSITY,Pennsylvania State University,92,psu.edu,https://www.psu.edu,1.0,existing_verified_output,,The Pennsylvania State University,not_checked,,success
+UNI-UNIVERSITY-OF-WASHINGTON,University of Washington,92,washington.edu,https://www.washington.edu,1.0,existing_verified_output,,University of Washington,not_checked,,success
+UNI-BOSTON-UNIVERSITY,Boston University,94,bu.edu,https://www.bu.edu,1.0,existing_verified_output,,Boston University,not_checked,,success
+UNI-PURDUE-UNIVERSITY,Purdue University,100,purdue.edu,https://purdue.edu,1.0,existing_verified_output,Q217741,Purdue University,not_checked,,success
+UNI-RICE-UNIVERSITY,Rice University,122,rice.edu,https://rice.edu,1.0,existing_verified_output,Q842909,Rice University,not_checked,,success
+UNI-UNIVERSITY-OF-WISCONSIN-MADISON,University of Wisconsin-Madison,131,wisc.edu,https://wisc.edu,1.0,existing_verified_output,Q838330,University of Wisconsin–Madison,not_checked,,success
+UNI-UNIVERSITY-OF-CALIFORNIA-DAVIS,"University of California, Davis",137,ucdavis.edu,https://ucdavis.edu,1.0,existing_verified_output,Q129421,"University of California, Davis",not_checked,,success
+UNI-GEORGIA-INSTITUTE-OF-TECHNOLOGY,Georgia Institute of Technology,142,gatech.edu,https://www.gatech.edu,1.0,existing_verified_output,,Georgia Institute of Technology,not_checked,,success
+UNI-UNIVERSITY-OF-SOUTHERN-CALIFORNIA,University of Southern California,153,usc.edu,https://www.usc.edu,1.0,existing_verified_output,,University of Southern California,not_checked,,success
+UNI-UNIVERSITY-OF-NORTH-CAROLINA-AT-CHAPEL-HILL,University of North Carolina at Chapel Hill,158,unc.edu,https://unc.edu,1.0,existing_verified_output,,University of North Carolina at Chapel Hill,not_checked,,success
+UNI-WASHINGTON-UNIVERSITY-IN-ST-LOUIS,Washington University in St. Louis,162,wustl.edu,https://wustl.edu,1.0,existing_verified_output,,Washington University in St. Louis,not_checked,,success
+UNI-TEXAS-A-M-UNIVERSITY,Texas A&M University,169,tamu.edu,https://www.tamu.edu,1.0,existing_verified_output,,Texas A&M University,not_checked,,success
+UNI-ARIZONA-STATE-UNIVERSITY,Arizona State University,172,asu.edu,https://www.asu.edu,1.0,existing_verified_output,,Arizona State University,not_checked,,success
+UNI-UNIVERSITY-OF-CALIFORNIA-SANTA-BARBARA-UCSB,"University of California, Santa Barbara (UCSB)",173,ucsb.edu,https://www.ucsb.edu,1.0,existing_verified_output,,"University of California, Santa Barbara",not_checked,,success
+UNI-MICHIGAN-STATE-UNIVERSITY,Michigan State University,182,msu.edu,https://msu.edu,1.0,existing_verified_output,,Michigan State University,not_checked,,success
+UNI-EMORY-UNIVERSITY,Emory University,183,emory.edu,https://www.emory.edu,1.0,existing_verified_output,,Emory University,not_checked,,success
+UNI-THE-OHIO-STATE-UNIVERSITY,The Ohio State University,201,osu.edu,https://www.osu.edu,1.0,existing_verified_output,,The Ohio State University,not_checked,,success
+UNI-UNIVERSITY-OF-FLORIDA,University of Florida,228,www.ufl.edu,https://www.ufl.edu/,1.0,existing_verified_output,Q501758,University of Florida,not_checked,,success
+UNI-UNIVERSITY-OF-ROCHESTER,University of Rochester,251,www.rochester.edu,https://www.rochester.edu/,1.0,existing_verified_output,Q149990,University of Rochester,not_checked,,success
+UNI-UNIVERSITY-OF-CALIFORNIA-IRVINE,"University of California, Irvine",252,uci.edu,https://uci.edu,1.0,existing_verified_output,Q868421,"University of California, Irvine",not_checked,,success
+UNI-UNIVERSITY-OF-MARYLAND-COLLEGE-PARK,"University of Maryland, College Park",252,umd.edu,https://umd.edu,1.0,existing_verified_output,Q503415,University of Maryland,not_checked,,success
+UNI-UNIVERSITY-OF-MINNESOTA-SYSTEM,University of Minnesota (System),255,umn.edu,https://twin-cities.umn.edu,1.0,existing_verified_output,,University of Minnesota,not_checked,,success
+UNI-UNIVERSITY-OF-MASSACHUSETTS-AMHERST,University of Massachusetts Amherst,260,www.umass.edu,https://www.umass.edu/,1.0,existing_verified_output,Q15142,University of Massachusetts Amherst,not_checked,,success
+UNI-VANDERBILT-UNIVERSITY,Vanderbilt University,265,vanderbilt.edu,http://www.vanderbilt.edu/,1.0,bulk_university_domain_source,,Vanderbilt University,not_checked,,success
+UNI-UNIVERSITY-OF-VIRGINIA,University of Virginia,268,virginia.edu,https://www.virginia.edu,1.0,existing_verified_output,Q213439,University of Virginia,not_checked,,success
+UNI-DARTMOUTH-COLLEGE,Dartmouth College,270,dartmouth.edu,http://www.dartmouth.edu/,1.0,bulk_university_domain_source,,Dartmouth College,not_checked,,success
+UNI-UNIVERSITY-OF-PITTSBURGH,University of Pittsburgh,279,pitt.edu,http://www.pitt.edu/,1.0,bulk_university_domain_source,,University of Pittsburgh,not_checked,,success
+UNI-GEORGETOWN-UNIVERSITY,Georgetown University,289,georgetown.edu,http://www.georgetown.edu/,1.0,bulk_university_domain_source,,Georgetown University,not_checked,,success
+UNI-UNIVERSITY-OF-NOTRE-DAME,University of Notre Dame,300,nd.edu,http://www.nd.edu/,1.0,bulk_university_domain_source,,University of Notre Dame,not_checked,,success
+UNI-THE-UNIVERSITY-OF-ARIZONA,The University of Arizona,313,arizona.edu,http://www.arizona.edu/,1.0,bulk_university_domain_source,,The University of Arizona,not_checked,,success
+UNI-RUTGERS-UNIVERSITY-NEW-BRUNSWICK,Rutgers University–New Brunswick,314,rutgers.edu,https://newbrunswick.rutgers.edu,1.0,existing_verified_output,Q7382826,Rutgers University–New Brunswick,not_checked,,success
+UNI-NORTH-CAROLINA-STATE-UNIVERSITY,North Carolina State University,320,ncsu.edu,http://www.ncsu.edu/,1.0,bulk_university_domain_source,,North Carolina State University,not_checked,,success
+UNI-UNIVERSITY-OF-COLORADO-BOULDER,University of Colorado Boulder,320,colorado.edu,http://www.colorado.edu/,0.952,bulk_university_domain_source,,University of Colorado Boulder,not_checked,,success
+UNI-CASE-WESTERN-RESERVE-UNIVERSITY,Case Western Reserve University,326,case.edu,http://www.case.edu/,1.0,bulk_university_domain_source,,Case Western Reserve University,not_checked,,success
+UNI-TUFTS-UNIVERSITY,Tufts University,338,tufts.edu,http://www.tufts.edu/,1.0,bulk_university_domain_source,,Tufts University,not_checked,,success
+UNI-UNIVERSITY-OF-MIAMI,University of Miami,338,miami.edu,http://welcome.miami.edu/,1.0,bulk_university_domain_source,,University of Miami,not_checked,,success
+UNI-INDIANA-UNIVERSITY-BLOOMINGTON,Indiana University Bloomington,360,indiana.edu,https://bloomington.iu.edu/,1.0,bulk_university_domain_source,,Indiana University Bloomington,not_checked,,success
+UNI-VIRGINIA-POLYTECHNIC-INSTITUTE-AND-STATE-UNIVERSITY,Virginia Polytechnic Institute and State University,366,vt.edu,https://www.vt.edu,1.0,existing_verified_output,Q65379,Virginia Tech,not_checked,,success
+UNI-UNIVERSITY-OF-ILLINOIS-CHICAGO-UIC,University of Illinois Chicago (UIC),370,uic.edu,http://www.uic.edu/,1.0,bulk_university_domain_source,,University of Illinois Chicago (UIC),not_checked,,success
+UNI-GEORGE-WASHINGTON-UNIVERSITY,George Washington University,381,gwu.edu,http://www.gwu.edu/,1.0,bulk_university_domain_source,,George Washington University,not_checked,,success
+UNI-NORTHEASTERN-UNIVERSITY,Northeastern University,385,neu.edu,http://www.northeastern.edu/,1.0,bulk_university_domain_source,,Northeastern University,not_checked,,success
+UNI-UNIVERSITY-OF-CALIFORNIA-RIVERSIDE,"University of California, Riverside",398,ucr.edu,http://www.ucr.edu/,1.0,bulk_university_domain_source,,"University of California, Riverside",not_checked,,success
+UNI-UNIVERSITY-AT-BUFFALO-SUNY,University at Buffalo SUNY,416,buffalo.edu,https://www.buffalo.edu,1.0,existing_verified_output,,University at Buffalo,not_checked,,success
+UNI-UNIVERSITY-OF-CALIFORNIA-SANTA-CRUZ,"University of California, Santa Cruz",458,ucsc.edu,http://www.ucsc.edu/,1.0,bulk_university_domain_source,,"University of California, Santa Cruz",not_checked,,success
+UNI-UNIVERSITY-OF-CONNECTICUT,University of Connecticut,458,uconn.edu,http://www.uconn.edu/,1.0,bulk_university_domain_source,,University of Connecticut,not_checked,,success
+UNI-STONY-BROOK-UNIVERSITY-STATE-UNIVERSITY-OF-NEW-YORK,"Stony Brook University, State University of New York",468,stonybrook.edu,https://www.stonybrook.edu,1.0,existing_verified_output,,Stony Brook University,not_checked,,success
+UNI-WASHINGTON-STATE-UNIVERSITY,Washington State University,510,wsu.edu,http://www.wsu.edu/,1.0,bulk_university_domain_source,,Washington State University,not_checked,,success
+UNI-UNIVERSITY-OF-KANSAS,University of Kansas,515,ku.edu,http://www.ku.edu/,1.0,bulk_university_domain_source,,University of Kansas,not_checked,,success
+UNI-UNIVERSITY-OF-UTAH,University of Utah,533,utah.edu,http://www.utah.edu/,1.0,bulk_university_domain_source,,University of Utah,not_checked,,success
+UNI-THE-UNIVERSITY-OF-GEORGIA,The University of Georgia,536,uga.edu,http://www.uga.edu/,1.0,bulk_university_domain_source,,The University of Georgia,not_checked,,success
+UNI-COLORADO-STATE-UNIVERSITY,Colorado State University,540,colostate.edu,http://www.colostate.edu/,1.0,bulk_university_domain_source,,Colorado State University,not_checked,,success
+UNI-IOWA-STATE-UNIVERSITY,Iowa State University,540,iastate.edu,http://www.iastate.edu/,1.0,bulk_university_domain_source,,Iowa State University,not_checked,,success
+UNI-FLORIDA-STATE-UNIVERSITY,Florida State University,546,fsu.edu,http://www.fsu.edu/,1.0,bulk_university_domain_source,,Florida State University,not_checked,,success
+UNI-BOSTON-COLLEGE,Boston College,549,bc.edu,http://www.bc.edu/,1.0,bulk_university_domain_source,,Boston College,not_checked,,success
+UNI-UNIVERSITY-OF-HOUSTON,University of Houston,551,uh.edu,http://www.uh.edu/,1.0,bulk_university_domain_source,,University of Houston,not_checked,,success
+UNI-COLORADO-SCHOOL-OF-MINES,Colorado School of Mines,575,mines.edu,http://www.mines.edu/,1.0,bulk_university_domain_source,,Colorado School of Mines,not_checked,,success
+UNI-UNIVERSITY-OF-DELAWARE,University of Delaware,575,udel.edu,http://www.udel.edu/,1.0,bulk_university_domain_source,,University of Delaware,not_checked,,success
+UNI-RENSSELAER-POLYTECHNIC-INSTITUTE,Rensselaer Polytechnic Institute,581,rpi.edu,http://www.rpi.edu/,1.0,bulk_university_domain_source,,Rensselaer Polytechnic Institute,not_checked,,success
+UNI-TULANE-UNIVERSITY,Tulane University,597,tulane.edu,http://www.tulane.edu/,1.0,bulk_university_domain_source,,Tulane University,not_checked,,success
+UNI-UNIVERSITY-OF-IOWA,University of Iowa,597,uiowa.edu,http://www.uiowa.edu/,1.0,bulk_university_domain_source,,University of Iowa,not_checked,,success
+UNI-ILLINOIS-INSTITUTE-OF-TECHNOLOGY,Illinois Institute of Technology,620,iit.edu,http://www.iit.edu/,1.0,bulk_university_domain_source,,Illinois Institute of Technology,not_checked,,success
+UNI-UNIVERSITY-OF-HAWAI-I-AT-M-NOA,University of Hawaiʻi at Mānoa,643,manoa.hawaii.edu,http://manoa.hawaii.edu/,0.949,bulk_university_domain_source,,University of Hawaiʻi at Mānoa,not_checked,,success
+UNI-AMERICAN-UNIVERSITY,American University,646,american.edu,http://www.american.edu/,1.0,bulk_university_domain_source,,American University,not_checked,,success
+UNI-FLORIDA-INTERNATIONAL-UNIVERSITY,Florida International University,659,fiu.edu,http://www.fiu.edu/,1.0,bulk_university_domain_source,,Florida International University,not_checked,,success
+UNI-LEHIGH-UNIVERSITY,Lehigh University,670,lehigh.edu,http://www.lehigh.edu/,1.0,bulk_university_domain_source,,Lehigh University,not_checked,,success
+UNI-STEVENS-INSTITUTE-OF-TECHNOLOGY,Stevens Institute of Technology,675,stevens.edu,http://www.stevens.edu/,1.0,bulk_university_domain_source,,Stevens Institute of Technology,not_checked,,success
+UNI-CITY-UNIVERSITY-OF-NEW-YORK,City University of New York,677,cuny.edu,http://www.cuny.edu/,1.0,bulk_university_domain_source,,City University of New York,not_checked,,success
+UNI-UNIVERSITY-OF-TEXAS-AT-DALLAS,University of Texas at Dallas,686,utd.edu,http://www.utdallas.edu/,1.0,bulk_university_domain_source,,University of Texas at Dallas,not_checked,,success
+UNI-THE-UNIVERSITY-OF-TENNESSEE-KNOXVILLE,"The University of Tennessee, Knoxville",701-710,utk.edu,https://www.utk.edu,1.0,existing_verified_output,,"The University of Tennessee, Knoxville",not_checked,,success
+UNI-OREGON-STATE-UNIVERSITY,Oregon State University,711-720,oregonstate.edu,http://www.oregonstate.edu/,1.0,bulk_university_domain_source,,Oregon State University,not_checked,,success
+UNI-UNIVERSITY-OF-OREGON,University of Oregon,711-720,uoregon.edu,http://www.uoregon.edu/,1.0,bulk_university_domain_source,,University of Oregon,not_checked,,success
+UNI-UNIVERSITY-OF-SOUTH-CAROLINA,University of South Carolina,711-720,sc.edu,http://www.sc.edu/,1.0,bulk_university_domain_source,,University of South Carolina,not_checked,,success
+UNI-UNIVERSITY-OF-MISSOURI-COLUMBIA,"University of Missouri, Columbia",721-730,missouri.edu,https://missouri.edu,1.0,existing_verified_output,,University of Missouri,not_checked,,success
+UNI-SYRACUSE-UNIVERSITY,Syracuse University,731-740,syr.edu,http://www.syr.edu/,1.0,bulk_university_domain_source,,Syracuse University,not_checked,,success
+UNI-UNIVERSITY-OF-CENTRAL-FLORIDA,University of Central Florida,731-740,ucf.edu,http://www.ucf.edu/,1.0,bulk_university_domain_source,,University of Central Florida,not_checked,,success
+UNI-NEW-JERSEY-INSTITUTE-OF-TECHNOLOGY-NJIT,New Jersey Institute of Technology (NJIT),741-750,njit.edu,http://www.njit.edu/,1.0,bulk_university_domain_source,,New Jersey Institute of Technology (NJIT),not_checked,,success
+UNI-UNIVERSITY-OF-CINCINNATI,University of Cincinnati,741-750,uc.edu,https://www.uc.edu,1.0,existing_verified_output,,University of Cincinnati,not_checked,,success
+UNI-BRANDEIS-UNIVERSITY,Brandeis University,751-760,brandeis.edu,https://www.brandeis.edu,1.0,existing_verified_output,,Brandeis University,not_checked,,success
+UNI-MISSOURI-UNIVERSITY-OF-SCIENCE-AND-TECHNOLOGY,Missouri University of Science and Technology,751-760,mst.edu,https://www.mst.edu,1.0,existing_verified_output,,Missouri University of Science and Technology,not_checked,,success
+UNI-TEMPLE-UNIVERSITY,Temple University,751-760,temple.edu,https://www.temple.edu,1.0,existing_verified_output,,Temple University,not_checked,,success
+UNI-TEXAS-TECH-UNIVERSITY,Texas Tech University,761-770,ttu.edu,https://www.ttu.edu,1.0,existing_verified_output,,Texas Tech University,not_checked,,success
+UNI-UNIVERSITY-OF-SOUTH-FLORIDA,University of South Florida,761-770,usf.edu,http://www.usf.edu/,1.0,bulk_university_domain_source,,University of South Florida,not_checked,,success
+UNI-DREXEL-UNIVERSITY,Drexel University,771-780,drexel.edu,http://www.drexel.edu/,1.0,bulk_university_domain_source,,Drexel University,not_checked,,success
+UNI-UNIVERSITY-OF-NEW-MEXICO,University of New Mexico,771-780,unm.edu,http://www.unm.edu/,1.0,bulk_university_domain_source,,University of New Mexico,not_checked,,success
+UNI-UNIVERSITY-OF-OKLAHOMA,University of Oklahoma,771-780,ou.edu,http://www.ou.edu/,1.0,bulk_university_domain_source,,University of Oklahoma,not_checked,,success
+UNI-GEORGIA-STATE-UNIVERSITY,Georgia State University,801-850,gsu.edu,http://www.gsu.edu/,1.0,bulk_university_domain_source,,Georgia State University,not_checked,,success
+UNI-RUTGERS-UNIVERSITY-NEWARK,Rutgers University–Newark,801-850,rutgers.edu,https://www.newark.rutgers.edu,1.0,existing_verified_output,Q7382780,Rutgers University–Newark,not_checked,,success
+UNI-UNIVERSITY-OF-MARYLAND-BALTIMORE,"University of Maryland, Baltimore",801-850,umaryland.edu,http://www.umaryland.edu/,1.0,bulk_university_domain_source,,"University of Maryland, Baltimore",not_checked,,success
+UNI-UNIVERSITY-OF-MARYLAND-BALTIMORE-COUNTY,"University of Maryland, Baltimore County",801-850,umbc.edu,http://www.umbc.edu/,1.0,bulk_university_domain_source,,"University of Maryland, Baltimore County",not_checked,,success
+UNI-UNIVERSITY-OF-NEBRASKA-LINCOLN,University of Nebraska - Lincoln,801-850,unl.edu,https://www.unl.edu,1.0,existing_verified_output,,University of Nebraska–Lincoln,not_checked,,success
+UNI-WAKE-FOREST-UNIVERSITY,Wake Forest University,801-850,wfu.edu,http://www.wfu.edu/,1.0,bulk_university_domain_source,,Wake Forest University,not_checked,,success
+UNI-WAYNE-STATE-UNIVERSITY,Wayne State University,801-850,wayne.edu,http://www.wayne.edu/,1.0,bulk_university_domain_source,,Wayne State University,not_checked,,success
+UNI-AUBURN-UNIVERSITY,Auburn University,851-900,auburn.edu,http://www.auburn.edu/,1.0,bulk_university_domain_source,,Auburn University,not_checked,,success
+UNI-THE-NEW-SCHOOL-NEW-YORK-CITY-AND-PARIS,"The New School, New York City and Paris",851-900,newschool.edu,https://www.newschool.edu,1.0,existing_verified_output,,The New School,not_checked,,success
+UNI-UNIVERSITY-OF-COLORADO-DENVER-ANSCHUTZ-MEDICAL-CAMPUS,University of Colorado Denver | Anschutz Medical Campus,851-900,ucdenver.edu,https://www.ucdenver.edu,1.0,existing_verified_output,,University of Colorado Denver,not_checked,,success
+UNI-WILLIAMS-COLLEGE,Williams College,851-900,williams.edu,http://www.williams.edu/,1.0,bulk_university_domain_source,,Williams College,not_checked,,success
+UNI-LOUISIANA-STATE-UNIVERSITY,Louisiana State University,901-950,lsu.edu,http://www.lsu.edu/,1.0,bulk_university_domain_source,,Louisiana State University,not_checked,,success
+UNI-OKLAHOMA-STATE-UNIVERSITY,Oklahoma State University,901-950,okstate.edu,http://www.okstate.edu/,1.0,bulk_university_domain_source,,Oklahoma State University,not_checked,,success
+UNI-UNIVERSITY-OF-KENTUCKY,University of Kentucky,901-950,uky.edu,http://www.uky.edu/,1.0,bulk_university_domain_source,,University of Kentucky,not_checked,,success
+UNI-WORCESTER-POLYTECHNIC-INSTITUTE,Worcester Polytechnic Institute,901-950,wpi.edu,http://www.wpi.edu/,1.0,bulk_university_domain_source,,Worcester Polytechnic Institute,not_checked,,success
+UNI-YESHIVA-UNIVERSITY,Yeshiva University,901-950,yu.edu,http://www.yu.edu/,1.0,bulk_university_domain_source,,Yeshiva University,not_checked,,success
+UNI-CLARK-UNIVERSITY,Clark University,951-1000,clarku.edu,http://www.clarku.edu/,1.0,bulk_university_domain_source,,Clark University,not_checked,,success
+UNI-CLEMSON-UNIVERSITY,Clemson University,951-1000,clemson.edu,http://www.clemson.edu/,1.0,bulk_university_domain_source,,Clemson University,not_checked,,success
+UNI-ROCHESTER-INSTITUTE-OF-TECHNOLOGY-RIT,Rochester Institute of Technology (RIT),951-1000,rit.edu,http://www.rit.edu/,1.0,bulk_university_domain_source,,Rochester Institute of Technology (RIT),not_checked,,success
+UNI-UNIVERSITY-AT-ALBANY-SUNY,University at Albany SUNY,951-1000,albany.edu,https://www.albany.edu,1.0,existing_verified_output,,University at Albany,not_checked,,success
+UNI-UNIVERSITY-OF-ALABAMA-AT-BIRMINGHAM,University of Alabama at Birmingham,951-1000,uab.edu,http://www.uab.edu/,1.0,bulk_university_domain_source,,University of Alabama at Birmingham,not_checked,,success
+UNI-UNIVERSITY-OF-ALASKA-FAIRBANKS,University of Alaska Fairbanks,951-1000,uaf.edu,http://www.uaf.edu/,1.0,bulk_university_domain_source,,University of Alaska Fairbanks,not_checked,,success
+UNI-VIRGINIA-COMMONWEALTH-UNIVERSITY,Virginia Commonwealth University,951-1000,vcu.edu,http://vcu.vcu.edu/,1.0,bulk_university_domain_source,,Virginia Commonwealth University,not_checked,,success
+UNI-BINGHAMTON-UNIVERSITY-SUNY,Binghamton University SUNY,1001-1200,binghamton.edu,https://www.binghamton.edu,1.0,existing_verified_output,,Binghamton University,not_checked,,success
+UNI-CLARKSON-UNIVERSITY,Clarkson University,1001-1200,clarkson.edu,https://www.clarkson.edu,1.0,existing_verified_output,,Clarkson University,not_checked,,success
+UNI-FORDHAM-UNIVERSITY,Fordham University,1001-1200,fordham.edu,https://www.fordham.edu,1.0,existing_verified_output,,Fordham University,not_checked,,success
+UNI-GEORGE-MASON-UNIVERSITY,George Mason University,1001-1200,gmu.edu,http://www.gmu.edu/,1.0,bulk_university_domain_source,,George Mason University,not_checked,,success
+UNI-HOWARD-UNIVERSITY,Howard University,1001-1200,howard.edu,http://www.howard.edu/,1.0,bulk_university_domain_source,,Howard University,not_checked,,success
+UNI-KANSAS-STATE-UNIVERSITY,Kansas State University,1001-1200,ksu.edu,https://www.k-state.edu/,1.0,bulk_university_domain_source,,Kansas State University,not_checked,,success
+UNI-MICHIGAN-TECHNOLOGICAL-UNIVERSITY,Michigan Technological University,1001-1200,mtu.edu,http://www.mtu.edu/,1.0,bulk_university_domain_source,,Michigan Technological University,not_checked,,success
+UNI-MISSISSIPPI-STATE-UNIVERSITY,Mississippi State University,1001-1200,msstate.edu,http://www.msstate.edu/,1.0,bulk_university_domain_source,,Mississippi State University,not_checked,,success
+UNI-NORTHERN-ARIZONA-UNIVERSITY,Northern Arizona University,1001-1200,nau.edu,http://www.nau.edu/,1.0,bulk_university_domain_source,,Northern Arizona University,not_checked,,success
+UNI-SAINT-LOUIS-UNIVERSITY,Saint Louis University,1001-1200,slu.edu,http://www.slu.edu/,1.0,bulk_university_domain_source,,Saint Louis University,not_checked,,success
+UNI-SOUTHERN-METHODIST-UNIVERSITY,Southern Methodist University,1001-1200,smu.edu,http://www.smu.edu/,1.0,bulk_university_domain_source,,Southern Methodist University,not_checked,,success
+UNI-THE-UNIVERSITY-OF-ALABAMA,The University of Alabama,1001-1200,ua.edu,https://www.ua.edu,1.0,existing_verified_output,,The University of Alabama,not_checked,,success
+UNI-THE-UNIVERSITY-OF-TEXAS-AT-ARLINGTON,The University of Texas at Arlington,1001-1200,uta.edu,http://www.uta.edu/,1.0,bulk_university_domain_source,,The University of Texas at Arlington,not_checked,,success
+UNI-THE-UNIVERSITY-OF-TEXAS-AT-SAN-ANTONIO,The University of Texas at San Antonio,1001-1200,utsa.edu,https://www.utsa.edu,1.0,existing_verified_output,,The University of Texas at San Antonio,not_checked,,success
+UNI-UNIVERSITY-OF-DENVER,University of Denver,1001-1200,du.edu,http://www.du.edu/,1.0,bulk_university_domain_source,,University of Denver,not_checked,,success
+UNI-UNIVERSITY-OF-LOUISVILLE,University of Louisville,1001-1200,louisville.edu,http://www.louisville.edu/,1.0,bulk_university_domain_source,,University of Louisville,not_checked,,success
+UNI-UNIVERSITY-OF-MASSACHUSETTS-BOSTON,University of Massachusetts Boston,1001-1200,umb.edu,https://www.umb.edu/,1.0,bulk_university_domain_source,,University of Massachusetts Boston,not_checked,,success
+UNI-UNIVERSITY-OF-MISSISSIPPI,University of Mississippi,1001-1200,olemiss.edu,http://www.olemiss.edu/,1.0,bulk_university_domain_source,,University of Mississippi,not_checked,,success
+UNI-UNIVERSITY-OF-NEVADA-RENO,University of Nevada - Reno,1001-1200,unr.edu,http://www.unr.edu/,1.0,bulk_university_domain_source,,University of Nevada - Reno,not_checked,,success
+UNI-UNIVERSITY-OF-NORTH-TEXAS,University of North Texas,1001-1200,unt.edu,http://www.unt.edu/,1.0,bulk_university_domain_source,,University of North Texas,not_checked,,success
+UNI-UNIVERSITY-OF-RHODE-ISLAND,University of Rhode Island,1001-1200,uri.edu,http://www.uri.edu/,1.0,bulk_university_domain_source,,University of Rhode Island,not_checked,,success
+UNI-UNIVERSITY-OF-VERMONT,University of Vermont,1001-1200,uvm.edu,http://www.uvm.edu/,1.0,bulk_university_domain_source,,University of Vermont,not_checked,,success
+UNI-UNIVERSITY-OF-WYOMING,University of Wyoming,1001-1200,uwyo.edu,http://www.uwyo.edu/,1.0,bulk_university_domain_source,,University of Wyoming,not_checked,,success
+UNI-WEST-VIRGINIA-UNIVERSITY,West Virginia University,1001-1200,wvu.edu,http://www.wvu.edu/,1.0,bulk_university_domain_source,,West Virginia University,not_checked,,success
+UNI-WILLIAM-MARY,William & Mary,1001-1200,wm.edu,https://www.wm.edu,1.0,existing_verified_output,,William & Mary,not_checked,,success
+UNI-BAYLOR-UNIVERSITY,Baylor University,1201-1400,baylor.edu,http://www.baylor.edu/,1.0,bulk_university_domain_source,,Baylor University,not_checked,,success
+UNI-BRIGHAM-YOUNG-UNIVERSITY,Brigham Young University,1201-1400,byu.edu,http://www.byu.edu/,1.0,bulk_university_domain_source,,Brigham Young University,not_checked,,success
+UNI-FLORIDA-ATLANTIC-UNIVERSITY-BOCA-RATON,Florida Atlantic University - Boca Raton,1201-1400,fau.edu,https://www.fau.edu,1.0,existing_verified_output,,Florida Atlantic University,not_checked,,success
+UNI-INDIANA-UNIVERSITY-INDIANAPOLIS-IU-INDIANAPOLIS,Indiana University Indianapolis (IU Indianapolis),1201-1400,iu.edu,https://indianapolis.iu.edu,1.0,existing_verified_output,,Indiana University Indianapolis,not_checked,,success
+UNI-KENT-STATE-UNIVERSITY,Kent State University,1201-1400,kent.edu,http://www.kent.edu/,1.0,bulk_university_domain_source,,Kent State University,not_checked,,success
+UNI-LOYOLA-UNIVERSITY-CHICAGO,Loyola University Chicago,1201-1400,luc.edu,https://www.luc.edu,1.0,existing_verified_output,,Loyola University Chicago,not_checked,,success
+UNI-MIAMI-UNIVERSITY,Miami University,1201-1400,miamioh.edu,https://miamioh.edu,1.0,existing_verified_output,,Miami University,not_checked,,success
+UNI-NEW-MEXICO-STATE-UNIVERSITY,New Mexico State University,1201-1400,nmsu.edu,https://nmsu.edu,1.0,existing_verified_output,,New Mexico State University,not_checked,,success
+UNI-OHIO-UNIVERSITY,Ohio University,1201-1400,ohio.edu,https://www.ohio.edu,1.0,existing_verified_output,,Ohio University,not_checked,,success
+UNI-PORTLAND-STATE-UNIVERSITY,Portland State University,1201-1400,pdx.edu,https://www.pdx.edu,1.0,existing_verified_output,,Portland State University,not_checked,,success
+UNI-SAN-DIEGO-STATE-UNIVERSITY,San Diego State University,1201-1400,sdsu.edu,https://www.sdsu.edu,1.0,existing_verified_output,,San Diego State University,not_checked,,success
+UNI-SEATTLE-UNIVERSITY,Seattle University,1201-1400,seattleu.edu,https://www.seattleu.edu,1.0,existing_verified_output,,Seattle University,not_checked,,success
+UNI-UNIVERSITY-OF-ARKANSAS-FAYETTEVILLE,University of Arkansas Fayetteville,1201-1400,uark.edu,https://www.uark.edu,1.0,existing_verified_output,,University of Arkansas,not_checked,,success
+UNI-UNIVERSITY-OF-IDAHO,University of Idaho,1201-1400,uidaho.edu,http://www.uidaho.edu/,1.0,bulk_university_domain_source,,University of Idaho,not_checked,,success
+UNI-UNIVERSITY-OF-MEMPHIS,University of Memphis,1201-1400,memphis.edu,http://www.memphis.edu/,1.0,bulk_university_domain_source,,University of Memphis,not_checked,,success
+UNI-UNIVERSITY-OF-MISSOURI-KANSAS-CITY,"University of Missouri, Kansas City",1201-1400,umkc.edu,https://www.umkc.edu,1.0,existing_verified_output,,University of Missouri-Kansas City,not_checked,,success
+UNI-UNIVERSITY-OF-NEVADA-LAS-VEGAS,University of Nevada - Las Vegas,1201-1400,unlv.edu,https://www.unlv.edu,1.0,existing_verified_output,,"University of Nevada, Las Vegas",not_checked,,success
+UNI-UNIVERSITY-OF-NEW-HAMPSHIRE,University of New Hampshire,1201-1400,unh.edu,https://www.unh.edu/,1.0,bulk_university_domain_source,,University of New Hampshire,not_checked,,success
+UNI-UNIVERSITY-OF-NORTH-CAROLINA-AT-CHARLOTTE,University of North Carolina at Charlotte,1201-1400,uncc.edu,http://www.uncc.edu/,1.0,bulk_university_domain_source,,University of North Carolina at Charlotte,not_checked,,success
+UNI-UNIVERSITY-OF-SAN-FRANCISCO,University of San Francisco,1201-1400,usfca.edu,http://www.usfca.edu/,1.0,bulk_university_domain_source,,University of San Francisco,not_checked,,success
+UNI-UNIVERSITY-OF-TEXAS-EL-PASO,University of Texas El Paso,1201-1400,utep.edu,http://www.utep.edu/,0.947,bulk_university_domain_source,,University of Texas El Paso,not_checked,,success
+UNI-UNIVERSITY-OF-TOLEDO,University of Toledo,1201-1400,utoledo.edu,http://www.utoledo.edu/,1.0,bulk_university_domain_source,,University of Toledo,not_checked,,success
+UNI-UNIVERSITY-OF-WISCONSIN-MILWAUKEE,University of Wisconsin Milwaukee,1201-1400,uwm.edu,http://www.uwm.edu/,1.0,bulk_university_domain_source,,University of Wisconsin Milwaukee,not_checked,,success
+UNI-UTAH-STATE-UNIVERSITY,Utah State University,1201-1400,usu.edu,http://www.usu.edu/,1.0,bulk_university_domain_source,,Utah State University,not_checked,,success
+UNI-WESTERN-MICHIGAN-UNIVERSITY,Western Michigan University,1201-1400,wmich.edu,http://www.wmich.edu/,1.0,bulk_university_domain_source,,Western Michigan University,not_checked,,success
+UNI-CALIFORNIA-POLYTECHNIC-STATE-UNIVERSITY,California Polytechnic State University,1401+,cpp.edu,http://www.cpp.edu/,0.918,bulk_university_domain_source,,California Polytechnic State University,not_checked,,success
+UNI-DEPAUL-UNIVERSITY,DePaul University,1401+,depaul.edu,http://www.depaul.edu/,1.0,bulk_university_domain_source,,DePaul University,not_checked,,success
+UNI-MARQUETTE-UNIVERSITY,Marquette University,1401+,marquette.edu,http://www.marquette.edu/,1.0,bulk_university_domain_source,,Marquette University,not_checked,,success
+UNI-UNIVERSITY-OF-SAN-DIEGO,University of San Diego,1401+,sandiego.edu,http://www.sandiego.edu/,1.0,bulk_university_domain_source,,University of San Diego,not_checked,,success

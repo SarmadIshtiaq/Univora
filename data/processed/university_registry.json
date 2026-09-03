@@ -1,0 +1,265 @@
+{
+  "University of Illinois Urbana-Champaign": {
+    "canonical_name": "University of Illinois Urbana-Champaign",
+    "official_domain": "illinois.edu",
+    "official_website": "https://illinois.edu"
+  },
+  "University of California, San Diego": {
+    "canonical_name": "University of California, San Diego",
+    "official_domain": "ucsd.edu",
+    "official_website": "https://ucsd.edu"
+  },
+  "Pennsylvania State University": {
+    "canonical_name": "The Pennsylvania State University",
+    "official_domain": "psu.edu",
+    "official_website": "https://www.psu.edu"
+  },
+  "University of Washington": {
+    "canonical_name": "University of Washington",
+    "official_domain": "washington.edu",
+    "official_website": "https://www.washington.edu"
+  },
+  "Boston University": {
+    "canonical_name": "Boston University",
+    "official_domain": "bu.edu",
+    "official_website": "https://www.bu.edu"
+  },
+  "Georgia Institute of Technology": {
+    "canonical_name": "Georgia Institute of Technology",
+    "official_domain": "gatech.edu",
+    "official_website": "https://www.gatech.edu"
+  },
+  "University of Southern California": {
+    "canonical_name": "University of Southern California",
+    "official_domain": "usc.edu",
+    "official_website": "https://www.usc.edu"
+  },
+  "University of North Carolina at Chapel Hill": {
+    "canonical_name": "University of North Carolina at Chapel Hill",
+    "official_domain": "unc.edu",
+    "official_website": "https://unc.edu"
+  },
+  "Washington University in St. Louis": {
+    "canonical_name": "Washington University in St. Louis",
+    "official_domain": "wustl.edu",
+    "official_website": "https://wustl.edu"
+  },
+  "Texas A&M University": {
+    "canonical_name": "Texas A&M University",
+    "official_domain": "tamu.edu",
+    "official_website": "https://www.tamu.edu"
+  },
+  "Arizona State University": {
+    "canonical_name": "Arizona State University",
+    "official_domain": "asu.edu",
+    "official_website": "https://www.asu.edu"
+  },
+  "University of California, Santa Barbara": {
+    "canonical_name": "University of California, Santa Barbara",
+    "official_domain": "ucsb.edu",
+    "official_website": "https://www.ucsb.edu"
+  },
+  "Michigan State University": {
+    "canonical_name": "Michigan State University",
+    "official_domain": "msu.edu",
+    "official_website": "https://msu.edu"
+  },
+  "Emory University": {
+    "canonical_name": "Emory University",
+    "official_domain": "emory.edu",
+    "official_website": "https://www.emory.edu"
+  },
+  "The Ohio State University": {
+    "canonical_name": "The Ohio State University",
+    "official_domain": "osu.edu",
+    "official_website": "https://www.osu.edu"
+  },
+  "University of Minnesota (System)": {
+    "canonical_name": "University of Minnesota",
+    "official_domain": "umn.edu",
+    "official_website": "https://twin-cities.umn.edu"
+  },
+  "University at Buffalo SUNY": {
+    "canonical_name": "University at Buffalo",
+    "official_domain": "buffalo.edu",
+    "official_website": "https://www.buffalo.edu"
+  },
+  "Stony Brook University, State University of New York": {
+    "canonical_name": "Stony Brook University",
+    "official_domain": "stonybrook.edu",
+    "official_website": "https://www.stonybrook.edu"
+  },
+  "The University of Tennessee, Knoxville": {
+    "canonical_name": "The University of Tennessee, Knoxville",
+    "official_domain": "utk.edu",
+    "official_website": "https://www.utk.edu"
+  },
+  "University of Missouri, Columbia": {
+    "canonical_name": "University of Missouri",
+    "official_domain": "missouri.edu",
+    "official_website": "https://missouri.edu"
+  },
+  "University of Cincinnati": {
+    "canonical_name": "University of Cincinnati",
+    "official_domain": "uc.edu",
+    "official_website": "https://www.uc.edu"
+  },
+  "Brandeis University": {
+    "canonical_name": "Brandeis University",
+    "official_domain": "brandeis.edu",
+    "official_website": "https://www.brandeis.edu"
+  },
+  "Missouri University of Science and Technology": {
+    "canonical_name": "Missouri University of Science and Technology",
+    "official_domain": "mst.edu",
+    "official_website": "https://www.mst.edu"
+  },
+  "Temple University": {
+    "canonical_name": "Temple University",
+    "official_domain": "temple.edu",
+    "official_website": "https://www.temple.edu"
+  },
+  "Texas Tech University": {
+    "canonical_name": "Texas Tech University",
+    "official_domain": "ttu.edu",
+    "official_website": "https://www.ttu.edu"
+  },
+  "University of Nebraska - Lincoln": {
+    "canonical_name": "University of Nebraska–Lincoln",
+    "official_domain": "unl.edu",
+    "official_website": "https://www.unl.edu"
+  },
+  "The New School, New York City and Paris": {
+    "canonical_name": "The New School",
+    "official_domain": "newschool.edu",
+    "official_website": "https://www.newschool.edu"
+  },
+  "University of Colorado Denver | Anschutz Medical Campus": {
+    "canonical_name": "University of Colorado Denver",
+    "official_domain": "ucdenver.edu",
+    "official_website": "https://www.ucdenver.edu"
+  },
+  "University at Albany SUNY": {
+    "canonical_name": "University at Albany",
+    "official_domain": "albany.edu",
+    "official_website": "https://www.albany.edu"
+  },
+  "Binghamton University SUNY": {
+    "canonical_name": "Binghamton University",
+    "official_domain": "binghamton.edu",
+    "official_website": "https://www.binghamton.edu"
+  },
+  "Clarkson University": {
+    "canonical_name": "Clarkson University",
+    "official_domain": "clarkson.edu",
+    "official_website": "https://www.clarkson.edu"
+  },
+  "Fordham University": {
+    "canonical_name": "Fordham University",
+    "official_domain": "fordham.edu",
+    "official_website": "https://www.fordham.edu"
+  },
+  "The University of Alabama": {
+    "canonical_name": "The University of Alabama",
+    "official_domain": "ua.edu",
+    "official_website": "https://www.ua.edu"
+  },
+  "The University of Texas at San Antonio": {
+    "canonical_name": "The University of Texas at San Antonio",
+    "official_domain": "utsa.edu",
+    "official_website": "https://www.utsa.edu"
+  },
+  "William & Mary": {
+    "canonical_name": "William & Mary",
+    "official_domain": "wm.edu",
+    "official_website": "https://www.wm.edu"
+  },
+  "Florida Atlantic University - Boca Raton": {
+    "canonical_name": "Florida Atlantic University",
+    "official_domain": "fau.edu",
+    "official_website": "https://www.fau.edu"
+  },
+  "Indiana University Indianapolis (IU Indianapolis)": {
+    "canonical_name": "Indiana University Indianapolis",
+    "official_domain": "iu.edu",
+    "official_website": "https://indianapolis.iu.edu"
+  },
+  "Loyola University Chicago": {
+    "canonical_name": "Loyola University Chicago",
+    "official_domain": "luc.edu",
+    "official_website": "https://www.luc.edu"
+  },
+  "Miami University": {
+    "canonical_name": "Miami University",
+    "official_domain": "miamioh.edu",
+    "official_website": "https://miamioh.edu"
+  },
+  "New Mexico State University": {
+    "canonical_name": "New Mexico State University",
+    "official_domain": "nmsu.edu",
+    "official_website": "https://nmsu.edu"
+  },
+  "Ohio University": {
+    "canonical_name": "Ohio University",
+    "official_domain": "ohio.edu",
+    "official_website": "https://www.ohio.edu"
+  },
+  "Portland State University": {
+    "canonical_name": "Portland State University",
+    "official_domain": "pdx.edu",
+    "official_website": "https://www.pdx.edu"
+  },
+  "San Diego State University": {
+    "canonical_name": "San Diego State University",
+    "official_domain": "sdsu.edu",
+    "official_website": "https://www.sdsu.edu"
+  },
+  "Seattle University": {
+    "canonical_name": "Seattle University",
+    "official_domain": "seattleu.edu",
+    "official_website": "https://www.seattleu.edu"
+  },
+  "University of Arkansas Fayetteville": {
+    "canonical_name": "University of Arkansas",
+    "official_domain": "uark.edu",
+    "official_website": "https://www.uark.edu"
+  },
+  "University of Missouri, Kansas City": {
+    "canonical_name": "University of Missouri-Kansas City",
+    "official_domain": "umkc.edu",
+    "official_website": "https://www.umkc.edu"
+  },
+  "University of Nevada - Las Vegas": {
+    "canonical_name": "University of Nevada, Las Vegas",
+    "official_domain": "unlv.edu",
+    "official_website": "https://www.unlv.edu"
+  },
+"University of Virginia": {
+  "canonical_name": "University of Virginia",
+  "official_domain": "virginia.edu",
+  "official_website": "https://www.virginia.edu",
+  "wikidata_id": "Q213439",
+  "wikidata_label": "University of Virginia"
+},
+"Rutgers University–New Brunswick": {
+  "canonical_name": "Rutgers University–New Brunswick",
+  "official_domain": "rutgers.edu",
+  "official_website": "https://newbrunswick.rutgers.edu",
+  "wikidata_id": "Q7382826",
+  "wikidata_label": "Rutgers University–New Brunswick"
+},
+"Virginia Polytechnic Institute and State University": {
+  "canonical_name": "Virginia Tech",
+  "official_domain": "vt.edu",
+  "official_website": "https://www.vt.edu",
+  "wikidata_id": "Q65379",
+  "wikidata_label": "Virginia Tech"
+},
+"Rutgers University–Newark": {
+  "canonical_name": "Rutgers University–Newark",
+  "official_domain": "rutgers.edu",
+  "official_website": "https://www.newark.rutgers.edu",
+  "wikidata_id": "Q7382780",
+  "wikidata_label": "Rutgers University–Newark"
+}
+}
