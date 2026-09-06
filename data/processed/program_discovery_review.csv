@@ -1,0 +1,4 @@
+university_id,university_name,official_domain,official_website,status,reason,pages_checked,programs_found,agent_version
+UNI-MASSACHUSETTS-INSTITUTE-OF-TECHNOLOGY-MIT,Massachusetts Institute of Technology (MIT),mit.edu,https://mit.edu,no_programs_found,"Academic pages were found, but no program-degree pair met structural validation rules.",12,0,3.0.0
+UNI-STANFORD-UNIVERSITY,Stanford University,stanford.edu,https://stanford.edu,needs_review,Official academic pages could not be confidently identified.,0,0,3.0.0
+UNI-HARVARD-UNIVERSITY,Harvard University,harvard.edu,https://harvard.edu,completed,Found 18 program-degree records from official academic pages.,12,18,3.0.0
