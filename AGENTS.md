@@ -6,10 +6,10 @@ This file applies to any coding agent working in the repository.
 
 Build Univora as a reliable evidence-backed research pipeline, not as a collection of unrelated scrapers.
 
-The product pipeline is:
+The current product pipeline is:
 
 ```text
-University → Program → Faculty → Research → Requirements
+University → Program → Faculty
 ```
 
 ## Required behavior
@@ -18,20 +18,20 @@ University → Program → Faculty → Research → Requirements
 
 For every entity:
 
-- store the source URL;
-- preserve confidence;
-- store a controlled status;
-- never fabricate a missing field.
+* store the source URL;
+* preserve confidence;
+* store a controlled status;
+* never fabricate a missing field.
 
 ### Resumability
 
 Every stage:
 
-- uses stable entity IDs;
-- writes a JSON registry;
-- writes a generated CSV;
-- avoids duplicate verified rows;
-- preserves previous verified state through temporary failures.
+* uses stable entity IDs;
+* writes a JSON registry;
+* writes a generated CSV;
+* avoids duplicate verified rows;
+* preserves previous verified state through temporary failures.
 
 ### Review
 
@@ -43,19 +43,17 @@ data/review/<stage>_review.csv
 
 They must not disappear.
 
-### Scope
+## Current scope
 
-v1 excludes:
+The current implementation covers only:
 
-- recommendations;
-- rankings;
-- application generation;
-- outreach automation;
-- non-USA universities;
-- mandatory LLM usage;
-- dashboard/frontend work.
+```text
+University
+Program
+Faculty
+```
 
-Do not add these unless the product documentation is deliberately changed first.
+Do not introduce additional product domains without first updating the product and architecture documentation.
 
 ## Repository conventions
 
@@ -64,8 +62,7 @@ agents/common/          shared infrastructure
 agents/university/      Stage 1
 agents/program/         Stage 2
 agents/faculty/         Stage 3
-agents/research/        Stage 4
-agents/requirements/    Stage 5
+
 data/raw/               source inputs, do not mutate
 data/processed/         canonical generated datasets
 data/review/            human review queues
@@ -77,32 +74,32 @@ workflows/n8n/          optional orchestration
 
 Prefer:
 
-- small functions;
-- explicit inputs/outputs;
-- Pydantic models;
-- deterministic normalization;
-- standard Python libraries;
-- shared HTTP behavior;
-- testable parsing functions.
+* small functions;
+* explicit inputs/outputs;
+* Pydantic models;
+* deterministic normalization;
+* standard Python libraries;
+* shared HTTP behavior;
+* testable parsing functions.
 
 Avoid:
 
-- hidden global state;
-- duplicate implementations of the same stage;
-- large “god scripts”;
-- per-agent request policies;
-- parsing logic mixed with persistence logic;
-- unverified data enrichment.
+* hidden global state;
+* duplicate implementations of the same stage;
+* large “god scripts”;
+* per-agent request policies;
+* parsing logic mixed with persistence logic;
+* unverified enrichment.
 
 ## Change discipline
 
 Before changing a schema, check:
 
-- PRD functional requirements;
-- Architecture domain model;
-- downstream foreign keys;
-- CSV column contract;
-- registry compatibility.
+* `PRD.md`;
+* `Architecture.md`;
+* downstream relationships;
+* CSV column contract;
+* registry compatibility.
 
 Before changing a stage, check how its output is consumed by the next stage.
 
@@ -121,18 +118,18 @@ If a row is wrong:
 
 Do not store credentials, cookies, session tokens, personal applicant data, or secrets in the repository.
 
-`.env` files and local credentials must remain ignored.
+Local secrets must remain ignored by Git.
 
 ## Completion checklist
 
 Before declaring a change complete:
 
-- [ ] scope still matches `PRD.md`;
-- [ ] architecture still matches `Architecture.md`;
-- [ ] schema validation passes;
-- [ ] tests pass;
-- [ ] IDs are stable;
-- [ ] source URLs are valid for verified records;
-- [ ] rerun does not duplicate data;
-- [ ] review cases remain visible;
-- [ ] no new dependency was added without justification.
+* [ ] scope still matches `PRD.md`;
+* [ ] architecture still matches `Architecture.md`;
+* [ ] schema validation passes;
+* [ ] tests pass;
+* [ ] IDs are stable;
+* [ ] source URLs are valid for verified records;
+* [ ] rerun does not duplicate data;
+* [ ] review cases remain visible;
+* [ ] no dependency was added without justification.

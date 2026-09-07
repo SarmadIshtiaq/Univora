@@ -6,15 +6,27 @@ Before changing code, read:
 
 1. `architecture-essentials.md`
 2. `PRD.md`
-3. `Architecture.md` when a decision touches schemas, stage boundaries, validation, or storage.
+3. `Architecture.md` when a decision affects schemas, stage boundaries, validation, or storage.
 
-Do not begin implementation from a vague task description when the task changes product scope. Product decisions belong in `PRD.md`.
+Do not begin implementation from a vague task description when the task changes product scope.
+
+Product decisions belong in `PRD.md`.
+
+## Current scope
+
+The current product pipeline is:
+
+```text
+University → Program → Faculty
+```
+
+Do not add additional data domains without updating the product documentation first.
 
 ## Non-negotiable rules
 
 ### 1. Evidence is mandatory
 
-A verified record must have a real source URL.
+A verified record must have a real official source URL.
 
 Never create a value merely to fill a column.
 
@@ -22,9 +34,9 @@ Never create a value merely to fill a column.
 
 When evidence is incomplete:
 
-- use `review` or `unresolved`;
-- record the reason;
-- keep the candidate visible to the human.
+* use `review` or `unresolved`;
+* record the reason;
+* keep the candidate visible to the human.
 
 ### 3. Generated datasets are read-only outputs
 
@@ -40,12 +52,10 @@ Change the producing logic and regenerate the dataset.
 
 Every stage must have:
 
-- stable IDs;
-- registry state;
-- deterministic output;
-- rerun-safe behavior.
-
-Do not replace registries with an ad-hoc cache.
+* stable IDs;
+* registry state;
+* deterministic output;
+* rerun-safe behavior.
 
 ### 5. Keep stage ownership clean
 
@@ -55,17 +65,13 @@ Program logic belongs to Stage 2.
 
 Faculty logic belongs to Stage 3.
 
-Research logic belongs to Stage 4.
-
-Requirements logic belongs to Stage 5.
-
 Shared concerns belong in `agents/common/`.
 
 ### 6. No core LLM calls
 
 Do not call an LLM from the deterministic discovery pipeline.
 
-If a future feature truly requires generated summarization or matching, it must be isolated, optional, documented, and evidence-aware.
+Optional future AI capabilities must be isolated from the core discovery system.
 
 ### 7. Respect external sites
 
@@ -94,12 +100,12 @@ Then write code.
 
 For changes that affect data correctness, add tests for:
 
-- schema validation;
-- domain/source validation;
-- deterministic IDs;
-- duplicate prevention;
-- registry behavior;
-- parser behavior.
+* schema validation;
+* source/domain validation;
+* deterministic IDs;
+* duplicate prevention;
+* registry behavior;
+* parser behavior.
 
 Use fixtures rather than live websites for most parser tests.
 
@@ -109,9 +115,9 @@ A task is not finished merely because the script runs.
 
 It is finished when:
 
-- real input can be processed;
-- output is evidence-backed;
-- reruns are safe;
-- uncertain records are visible;
-- tests cover the changed behavior;
-- documentation still matches the implementation.
+* real input can be processed;
+* output is evidence-backed;
+* reruns are safe;
+* uncertain records are visible;
+* tests cover changed behavior;
+* documentation still matches implementation.

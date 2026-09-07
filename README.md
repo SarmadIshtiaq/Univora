@@ -4,7 +4,7 @@
 
 Univora helps a graduate applicant turn a large, messy set of university websites into a structured research dataset that can be checked, filtered, and used for human decisions.
 
-The core idea is:
+The current build focuses on:
 
 ```text
 University
@@ -12,75 +12,67 @@ University
 Academic Program
     ↓
 Faculty
-    ↓
-Professor Research
-    ↓
-Admission Requirements
-    ↓
-Evidence
 ```
+
+The product is being built from the ground up with a strong emphasis on evidence, validation, resumability, and human review.
 
 ## What Univora is
 
-Univora is a research-data pipeline, not a recommendation engine.
+Univora is a research-data pipeline.
 
 It collects facts from official university sources and preserves the evidence behind those facts. The applicant remains the decision-maker.
 
 The product principle is:
 
-> **Human chooses. Univora researches. Automation handles repetitive work.**
+> **Human chooses. Univora researches.**
 
-## The v1 user experience
+## Current v1 scope
 
-v1 intentionally has no web dashboard.
+The first version focuses only on three entities:
 
-The user works with:
+### 1. University
 
-1. a starting university list;
-2. command-line pipeline stages;
-3. generated CSV files for human review;
-4. JSON registries for machine state and resumability;
-5. source URLs for verification.
+Identify the official university website/domain from a starting university list.
 
-A successful run should let the user answer questions such as:
+### 2. Program
 
-- What graduate programs exist at this university?
-- Which department owns the program?
-- Which faculty are associated with it?
-- What does each faculty member say they research?
-- What are the admission requirements and deadlines?
-- Where did each fact come from?
+Discover real academic graduate programs belonging to that university and preserve the official program source.
 
-## Product boundary
+### 3. Faculty
 
-### In scope for v1
+Discover faculty associated with the relevant program or department and preserve their official profile sources.
 
-- USA university discovery / official-domain resolution
-- academic program discovery
-- faculty discovery
-- faculty profile collection
-- professor research-area extraction
-- admission requirement extraction
-- source/evidence tracking
-- resumable batch processing
-- review queues for uncertain records
-- CSV + JSON outputs
-- CLI operation
+The current pipeline is:
 
-### Explicitly out of scope for v1
+```text
+Seed Universities
+      ↓
+Official University
+      ↓
+Academic Programs
+      ↓
+Faculty
+```
 
-- application/SOP/CV generation
-- automated professor outreach
-- email sending
-- application tracking
-- school or professor ranking
-- “best fit” recommendations
-- automated research-interest matching
-- a web dashboard
-- non-USA universities
-- paid APIs or mandatory LLM APIs
+## What is not part of the current build
 
-Those can become later products, but they are not part of the first reliable research engine.
+The current build does not include:
+
+* professor research extraction;
+* admission requirement extraction;
+* application/SOP/CV generation;
+* professor outreach;
+* application tracking;
+* university ranking;
+* professor ranking;
+* recommendation or “best fit” scoring;
+* automated decision-making;
+* web dashboard;
+* non-USA universities;
+* mandatory LLM APIs;
+* paid external APIs.
+
+Future features must be deliberately added to the product documentation before implementation.
 
 ## Core product promise
 
@@ -90,46 +82,98 @@ A missing fact is acceptable.
 
 A guessed fact is not.
 
-Every stored fact must have a traceable source URL. Anything uncertain must be marked for review or unresolved rather than silently invented.
+Every verified record must have a traceable official source URL. Anything uncertain must be marked for review or unresolved rather than silently invented.
+
+## User workflow
+
+The current v1 workflow is:
+
+```text
+1. Start with a university seed list
+2. Resolve official university websites
+3. Discover graduate programs
+4. Discover faculty associated with those programs
+5. Review the generated data
+```
+
+The outputs are intended to be simple and inspectable:
+
+* CSV files for humans;
+* JSON registries for machine state;
+* source URLs for verification;
+* review files for uncertain records.
 
 ## Build sequence
 
-Do not start by writing scrapers.
+Do not start by writing large scrapers.
 
-The build order is:
+Build in this order:
 
 ```text
 1. Product contract
 2. Architecture + data contracts
 3. Repository skeleton
 4. Shared models / validation
-5. Stage 1 — universities
-6. Stage 2 — programs
-7. Stage 3 — faculty
-8. Stage 4 — professor research
-9. Stage 5 — requirements
-10. Cross-stage validation
-11. Pilot run on a small university set
-12. Scale to the full USA batch
+5. Shared HTTP + registry infrastructure
+6. Stage 1 — Universities
+7. Stage 2 — Programs
+8. Stage 3 — Faculty
+9. Cross-stage validation
+10. Small pilot
+11. Full batch
 ```
 
 Each stage must work independently before the next stage is allowed to depend on it.
 
 ## Documentation map
 
-| File | Purpose |
-|---|---|
-| `README.md` | Human-facing project overview |
-| `PRD.md` | What the product must do and why |
-| `Architecture.md` | How the product is structured |
+| File                         | Purpose                          |
+| ---------------------------- | -------------------------------- |
+| `README.md`                  | Project overview                 |
+| `PRD.md`                     | Product requirements             |
+| `Architecture.md`            | Detailed technical architecture  |
 | `architecture-essentials.md` | Fast reference for coding agents |
-| `CLAUDE.md` | Claude-specific operating rules |
-| `AGENTS.md` | General coding-agent operating rules |
+| `CLAUDE.md`                  | Claude-specific coding rules     |
+| `AGENTS.md`                  | General coding-agent rules       |
 
-## What “done” means
+## Repository target
 
-v1 is done when a real USA university batch can move through the pipeline without hand-editing generated datasets, without fabricated facts, and without losing state between runs.
+```text
+Univora/
+├── README.md
+├── PRD.md
+├── Architecture.md
+├── architecture-essentials.md
+├── CLAUDE.md
+├── AGENTS.md
+├── requirements.txt
+│
+├── agents/
+│   ├── common/
+│   ├── university/
+│   ├── program/
+│   └── faculty/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── review/
+│
+├── tests/
+└── workflows/
+    └── n8n/
+```
 
-The final dataset does not need to know everything.
+## Definition of success
+
+The current v1 is successful when a real USA university batch can move through:
+
+```text
+University → Program → Faculty
+```
+
+without hand-editing generated datasets, without fabricated facts, and without losing state between runs.
+
+The system does not need to know everything.
 
 It needs to know what it knows, where it learned it, and what still needs human review.
